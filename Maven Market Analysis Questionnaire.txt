@@ -1,0 +1,24 @@
+Maven Market Analysis Questionnaires:
+
+Sales Analysis Page:
+1. Visualize sales trends over time.
+2. Analyze sales performance by region, product category, or customer segment.
+3. Identify top-selling products and their contribution to overall revenue.
+Orders Overview page:
+1. Display order fulfillment metrics (order processing time, shipping duration, etc.).
+2.Evaluate order volume trends and patterns.
+3. Analyze the correlation between order size and sales revenue.
+Returns Analysis page:
+1. Visualize return rates and reasons for returns.
+2. Explore return trends by product, customer type, or geographical location.
+3. Assess the impact of returns on overall revenue and customer satisfaction.
+Customers Insights Page:
+1. Segment customers based on the purchasing membership card, occupation, education, etc.
+2. Analyze customer retention rates and churn patterns.
+3. Identify high-value customers and their contribution to sales.
+Store Performance Page:
+1. Compare store-wise sales performance and growth.
+Products Analysis Page:
+1. Categorize products based on the sales volume and profitability.
+2. Identify slow-moving or high-margin products for optimization.
+3. Visualize product performance across various regions or customer segments.
